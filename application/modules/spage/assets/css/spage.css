@@ -1,0 +1,29 @@
+.mod_spage.in_home ul{margin:0;padding:0;margin-left:-10px;}
+.mod_spage.in_home li{display:block;float:left;margin:0 0 0 30px;width:215px;}
+.mod_spage.in_home li img{width:200px;height:120px;box-shadow:0 1px 2px #666666;border:5px solid #fff;display:block;}
+.mod_spage.in_home li a{font-weight:bold;color:#444;margin:8px 0 0px 0;display:block;}
+.mod_spage.in_home li p{color:#888;margin:5px 0 0 0;} 
+
+.mod_spage.block_spage_html_1{max-width:960px;margin:auto;background:#DFEEFC;padding:5px 10px 10px 10px;margin-top:10px;}
+.mod_spage.block_spage_html_1 .info_block h6{font-size:14px;margin-bottom:5px;}
+.mod_spage.block_spage_html_1 li{display:block;float:left;width:290px;margin-right:20px;padding:3px 0 3px 0}
+.mod_spage.block_spage_html_1 li a{color:#444;padding-left:10px;background:url('../images/bg/arrow_icon.png') no-repeat left center;display:block;border-right:1px solid #fff;}
+
+.mod_spage.block_spage_html_2{margin:0 auto 15px auto;width:1160px;}
+.mod_spage.block_spage_html_2 ul{float:left;width:186px;margin:0 10px 0 0;padding:0;border:1px solid #dcdcdc;}
+.mod_spage.block_spage_html_2 ul:last-child{margin:0;}
+.mod_spage.block_spage_html_2 li{display:block;padding:8px 5px;text-align:center;}
+.mod_spage.block_spage_html_2 li.content{text-align:left;padding:6px 5px 6px 24px;background:url('../images/bg/checked.png') no-repeat 8px 12px}
+.mod_spage.block_spage_html_2 li.head{color:#0C68A7;font-weight:20px;font-weight:bold;padding:8px 0;}
+.mod_spage.block_spage_html_2 li.price{background:#0C68A7;font-size:20px;font-weight:bold;color:#fff;font-style:italic;padding:10px 0;}
+.mod_spage.block_spage_html_2 li.column3{border-bottom:1px solid #dcdcdc;}
+.mod_spage.block_spage_html_2 li.footer a{font-size:14px;font-weight:bold;padding:5px 20px;font-style:italic;color:#666;}
+.mod_spage.block_spage_html_2 li.footer{background:#DFEEFC}
+.mod_spage.in_home_video {text-align:center;color:#E66419;}
+.mod_spage.in_home_video p {margin:10px 0 10px 0;}
+.mod_spage.in_home_gioi_thieu img {float:right;margin:0 0 10px 10px;}
+.mod_spage.in_home_gioi_thieu  {text-align:justify;background:url('../images/bg/bg_gthieu.png') no-repeat}
+.mod_spage.in_home_gioi_thieu  h4.caption {color:#E66419}
+.mod_spage.block_trang_chu_cot_phai{margin-bottom:10px; background:#f7f7f7;}
+.mod_spage.block_trang_chu_cot_phai .contents{padding:10px 5px 15px 5px;}
+.mod_spage.block_trang_chu_cot_phai img{float:left;margin:8px 10px 5px}

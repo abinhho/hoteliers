@@ -1,0 +1,8 @@
+.mod_support_block{}
+ul.support{margin:0 10px; padding:0}
+ul.support li{display:block;border-bottom:1px solid #EDEDED;padding:5px 0}
+ul.support li:last-child{border:none;}
+ul.support li span,ul.support li a{display:block;margin-top:3px;}
+ul.support li .name{font-weight:bold;}
+ul.support li span.phone{padding:5px 0 5px 20px;background:url('../images/bg/bg_ui1.png') no-repeat 0px 6px;margin:0 0px;color:#FF3300
+;font-weight:bold;}

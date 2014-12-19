@@ -1,0 +1,32 @@
+
+.block_rate .rate_full_info{position:relative;}
+.block_rate .rate_full_info .social_share{position:absolute;top:-6px;right:0;}
+.block_rate .rate_full_info  h5{font-weight:normal;font-size:15px;padding-left:25px;
+background:url('../images/bg/rate_heart.png') no-repeat left center;text-transform:uppercase;}
+.block_rate .rate_full_info  p.info{color:#888;font-size:11px;margin:5px 0}
+.block_rate .rate_full_info  .stars{padding-right:10px;}
+.block_rate .rate_full_info  .stars .each{float:left;width:16px;height:16px;
+background:url('../images/bg/rate_star.gif') no-repeat center 0;padding:0 2px;}
+.block_rate .rate_full_info  .stars .each.active{background-position:center -16px;}
+.block_rate .rate_full_info  .stars .each.hover{background-position:center -32px;}
+.block_rate .rate_full_info  .stars.mod_on .each{cursor:pointer;}
+.mod_comment_rate.only_star .each{background:url('../images/bg/rate_star.gif') no-repeat center 0;
+padding:0px 10px;}
+.mod_comment_rate.only_star .each.active{background-position:center -32px;}
+.block_comment{padding-bottom:10px;margin-bottom:10px;}
+.block_comment .title{text-transform:uppercase;font-size:14px;border-bottom:1px solid #ccc;
+padding:5px 0 10px 30px;margin:10px 0;background:url('../images/bg/com.png') no-repeat left center;}
+.block_comment .title .right{text-transform:none;font-size:11px;float:right;font-weight:normal;
+cursor:pointer;margin-left:20px;}
+.block_comment .form_check_login{border-bottom:1px solid #dcdcdc;padding-bottom:10px;}
+.block_comment .form_top{margin:10px 0;}
+.block_comment .form_top img.img_user{}
+.block_comment .form_top textarea{width:500px;float:left;margin-left:15px;padding:5px;}
+.block_comment .show_item_comment li {display:block;margin:5px 0;clear:both;padding:10px 0;
+border-bottom:1px solid #dcdcdc;}.block_comment .show_item_comment li .right {margin-left:70px;}
+.block_comment .show_item_comment li .date {font-size:11px;color:#888;}
+.block_comment .box_2col .left{float:left}
+.block_comment .box_2col.w3070 .left{float:left;width:30%;}
+.block_comment .box_2col.w3070 .right{float:left;width:65%;border-left:1px dashed #ccc;padding-left:10px;}
+.block_comment .box_2col p.strong{font-weight:bold;padding:5px 0}
+.block_comment .box_2col .right{width:49%;float:right}

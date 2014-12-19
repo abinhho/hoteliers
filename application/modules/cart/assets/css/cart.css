@@ -1,0 +1,7 @@
+.mod_cart.view_product_button_add2card{height:50px;}
+.mod_cart.view_product_button_add2card .qty{float:left;width:20px;margin-right:20px;padding:3px;}
+.mod_cart.view_product_button_add2card .button{background:url('../images/bg/product_buy.gif') no-repeat center;background-size:cover;width:236px;height:61px;display:inline-block;color:transparent}
+
+.table_view_cart{border-collapse:collapse;border:1px solid #ccc;}
+.table_view_cart th{background:#f2f2f2;white-space:nowrap}
+.table_view_cart th,.table_view_cart td{border:1px solid #ccc;}

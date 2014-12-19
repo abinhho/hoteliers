@@ -1,0 +1,11 @@
+.ad_images_left_col img,.ad_images_right_col img{margin:5px 0 5px 0;display:block}
+
+.fixed_ad{position:absolute;top:10px;}
+.fixed_ad img{width:120px;}
+.fixed_ad.left_page{left:0;}
+.fixed_ad.right_page{right:0;}
+
+.block_scroll_image{line-height:0;padding:10px;background:#fff;border:1px solid #ccc;border-radius:4px;width:960px;margin:auto}
+.block_scroll_image img{height:80px;border:1px solid #dcdcdc;padding:2px;border-radius:2px;margin:0 2px;background:#fff}
+
+.block_ad_images_footer{margin:10px auto 0px auto}

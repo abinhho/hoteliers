@@ -1,0 +1,11 @@
+.mod_vote_ideals{margin:0px 0 10px;padding:0;}
+.mod_vote_ideals ul{margin:10px 0 10px;padding:0}
+.mod_vote_ideals li{padding:2px 0;margin:0;display:block;}
+.mod_vote_ideals label{margin-left:0px;}
+.mod_vote_ideals_result{border:2px solid #000;background:#fff;position:absolute;width:600px;
+display:none;z-index:1002;margin:auto;left:0;right:0;border-radius:4px;padding:10px;}
+.mod_vote_ideals_result h2.title{padding-bottom:10px;border-bottom:1px solid #ccc;margin-bottom:10px;}
+.mod_vote_ideals_result span.per_line{float:left;height:16px;}
+.mod_vote_ideals_result i.close{display:block;position:absolute;top:5px;right:5px;
+background:url('../images/bg/close.png') no-repeat center;width:20px;height:20px;
+border:1px solid #ccc;cursor:pointer}

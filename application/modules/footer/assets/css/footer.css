@@ -1,0 +1,18 @@
+.mod_footer{color:#444;padding:0 0 20px 0;margin-top:20px;background:#f2f2f2;padding:10px;font-size:14px;border-top:4px solid #57ad23;position:relative;}
+.mod_footer .contents_980{position:relative;}
+.mod_footer a.backtop{position:absolute;right:0;top:-45px;background:url('../images/bg/arrow_up_white.png') no-repeat 5px center #57ad23;border-radius:4px 4px 0 0;color: #fff;padding:4px 5px 3px 20px;font-size:11px;}
+.mod_footer p{margin:0;padding:0;}
+.mod_footer .content_footer{padding:10px 0;color:#736750;}
+.mod_footer .content_footer p{margin:0;padding:0}
+
+.mod_footer .each_col{float:left;width:185px;}
+.mod_footer .each_col h5{font-size:14px;text-transform:uppercase;margin-bottom:5px;color:#000;font-family:utm;}
+.mod_footer .each_col ul{margin:0;padding:0;}
+.mod_footer .each_col ul li{display:block;margin-top:4px;}
+.mod_footer .each_col ul li a{color:#444;}
+.mod_footer .nd{text-align:center;padding:10px;line-height:1.6;border-top:1px solid #f2f2f2;margin-top:10px;}
+.mod_footer .right{float:right;width:400px;background:url('../images/bg/phone.png') no-repeat right 0px;}
+.after_footer.last{padding:10px 0 20px 0;display:block;text-align:center;background:#0D4DA4;}
+.after_footer.last ul{margin:0;padding:0;}
+.after_footer.last li{margin:5px 20px 0 0;display:inline-block;}
+.after_footer.last li a{color:#ccc;}

@@ -1,0 +1,24 @@
+.slide_image{padding:0px;border:0px solid #dcdcdc;box-shadow:inset  0 0 0px #f2f2f2;text-align:center;display:block;background:#fff;width:980px;margin:auto;
+}
+.slide_image .nivoSlider{position:relative;border:0px solid #fff;}
+
+.block_slide_jcycle_images{}
+.block_slide_jcycle_images .content_slider{position:relative;height:250px;overflow:hidden;}
+.block_slide_jcycle_images .nav_prev_prev{width:21px;height:42px;background:url('../images/bg/bg_nav_slide_cycle.png') no-repeat 0 0px;position:absolute;top:0;bottom:0;margin:auto;
+z-index:100;opacity:0.6;cursor:pointer;}
+.block_slide_jcycle_images .nav_prev_prev:hover{opacity:1;}
+.block_slide_jcycle_images .nav_prev{}
+.block_slide_jcycle_images .nav_next{right:0;background-position:-22px 0px;}
+.block_slide_jcycle_images .left_slide{width:550px;}
+
+.block_slide_jcycle_images .block_menu_doc {float:left;width:190px;}
+
+.block_slide_jcycle_images .chinh_sach_san_pham{background:url('../images/bg/bg-tab.gif') repeat-x bottom;border:1px solid #E5E5E5;margin-top:15px;clear:both;border-radius:4px;color:#888}
+.block_slide_jcycle_images .chinh_sach_san_pham div.each{width:180px;padding-right:40px;margin-right:0px;float:left;padding:10px 0 10px 50px;}
+.block_slide_jcycle_images .chinh_sach_san_pham div.each.last{margin-right:0;}
+.block_slide_jcycle_images .chinh_sach_san_pham i.sprites{float:left;margin-left:-40px;}
+.block_slide_jcycle_images .chinh_sach_san_pham div.each span{margin:0px 0 0 0px;float:left;font-weight:bold;padding-right:31px;}
+.block_slide_jcycle_images .chinh_sach_san_pham div.form_email_promote{float:right;border-left:1px solid #ccc;padding-left:15px;margin-top:6px;}
+.block_slide_jcycle_images .chinh_sach_san_pham div.form_email_promote b{}
+.block_slide_jcycle_images .chinh_sach_san_pham div.form_email_promote input.email{border:1px solid #ccc;padding:5px;width:150px;box-shadow:inset 0 0 4px #ccc;}
+.block_slide_jcycle_images .chinh_sach_san_pham div.form_email_promote input.button{margin:0 10px;}
