@@ -1,0 +1,18 @@
+.mod_breadcrumb{margin:0;padding:0 10px;}
+.mod_breadcrumb .contents_980{width:960px;}
+.mod_breadcrumb ul{margin:0;padding:0;float:left;font-style: italic;}
+.mod_breadcrumb li.name_display{color:#888;}
+.mod_breadcrumb li{float:left;list-style:none;padding:12px 0}
+.mod_breadcrumb li.home a{background:none;margin:0;padding-left:0px;}
+
+.mod_breadcrumb li a,.mod_breadcrumb li span.end{float:left;padding:0px;padding-left:14px;background:url('../images/bg/imgArrowBullet.gif') no-repeat left 5px;margin-left:8px;font-size:11px;color: #a0a0a0;}
+.mod_breadcrumb li span.end{color:#888;}
+.mod_breadcrumb li a{}
+a.arrow{font-size:12px;}
+
+.mod_breadcrumb .right_{float:right;}
+.mod_breadcrumb .right_ .form_email_promote{float:right;margin-top:8px;}
+.mod_breadcrumb .right_ .hotline{margin:10px 10px 0 0;float:left;background:url('../images/bg/call-icon.png') no-repeat 0 center;padding:3px 0 3px 24px;}
+.mod_breadcrumb .right_ .hotline b{color:#FB2F2E}
+.mod_breadcrumb .right_ .form_email_promote b{display:none;}
+.mod_breadcrumb .right_ .form_email_promote .email{padding:5px;border:1px solid #dadada;margin-right:-2px;}

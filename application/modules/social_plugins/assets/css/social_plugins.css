@@ -1,0 +1,20 @@
+.social_share{padding:5px;background:#f2f2f2;margin-top:0px;color:#888;font-size:11px;font-style:italic}
+.social_share .left{float:left;}
+.social_share .right{float:right}
+.social_share span{margin:3px 10px 0 0;float:left;}
+.social_share a{background:url('../images/bg/social_icon_share.png') no-repeat 0 6px;padding:5px 10px;margin:0 4px;}
+.social_share a.t{background-position:0 -24px;}
+.social_share a.g{background-position:0 -51px;}
+.social_share a.bookmark{background-position:0 -80px;}
+.social_share a.print{background-position:0 -108px;}
+.social_share a:hover{opacity:0.8}
+
+.block_social_pages{color:#888;}
+.block_social_pages ul{margin:5px 0 0 0;padding:0;}
+.block_social_pages li {margin: 0 0 0 2px;float:left;display:block;}
+.block_social_pages span.desc{margin:0 0 10px 0;display:block;}
+.block_social_pages a{background: url("../images/bg/social.png") no-repeat 0 0;display: inline-block;height: 38px;line-height: 987em;    overflow: hidden;text-indent: -987em;width: 38px;}
+.block_social_pages li.facebook a{background-position:0 -50px}
+.block_social_pages li.gplus a{background-position:0 -101px}
+.block_social_pages li.rss a{background-position:0 -151px}
+.block_social_pages li.youtube a{background-position:0 -252px}

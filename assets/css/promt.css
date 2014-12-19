@@ -1,0 +1,24 @@
+.promt{display:none;position:absolute;width:700px;z-index:1002;top:100px;margin:auto;left:0;right:0;padding:0px;}
+.promt .main_promt{background:#fff;border:0px solid #444;padding:10px;}
+.promt .main_promt .header{text-transform:uppercase;border-bottom:3px double #444;width:auto;height:auto;background:url('../images/bg/treeT.gif') no-repeat 0px center;padding:8px 12px;color:#444;font-weight:bold;position:relative;padding-left:20px;}.promt .main_promt .header h2{font-size:17px;}
+.promt .main_promt .header .close{background:url('../images/bg/close.png') no-repeat center;width:16px;height:16px;position:absolute;right:10px;top:0;bottom:0;margin:auto;cursor:pointer;border:3px double #444;}
+.promt .main_promt .content{padding:5px 0px;max-height:500px;overflow:auto;}
+.promt .main_promt .content span.loading{font-size:20px;padding:10px;display:block;}
+.promt .main_promt .footer{width:auto;background:#fff;padding:5px 10px;text-align:right;height:auto;margin:0;}
+.promt .main_promt .footer .button{border:3px double #000;font-weight:bold;font-size:12px;padding:6px 17px;cursor:pointer;width:auto;color:#fff;background:#f2f2f2;color:#444;text-transform:uppercase}
+.promt .main_promt .footer .button:hover{opacity:0.7;} .promt .main_promt .footer .button:active{opacity:0.5;}
+.promt table td{padding:3px;}
+.promt .main_promt .error{background:#FFEBE8;border:1px solid #DD3C10;padding:8px 10px 6px 10px;margin-bottom:5px;margin:5px 0;display:none;} 
+.promt .main_promt .error p{margin:3px 0}
+
+.scroll_top{position:fixed;bottom:10px;right:10px;width:54px;height:54px;background:url('../images/bg/scroll_top.png') no-repeat center;cursor:pointer;display:none;}
+.scroll_top:hover{opacity:0.8;}
+.dim_body{display:none;top:0;bottom:0;left:0;right:0;position:fixed;background:url('../images/bg/bgOpaBlack.png');z-index:1001;}
+.promt p.note{margin:0px 0 15px 0;border:1px solid #f8cd79;background:#fdf5c7;padding:8px;border-radius:4px;line-height:1.6;}
+.promt textarea{width:350px;}
+
+.feed_cart{position:fixed;top:200px;left:0;right:0;margin:auto;width:300px;height:125px;background:#fff;border:1px solid #888;display:none;z-index:1001;}
+.feed_cart p{margin:0;padding:5px 10px;}
+.feed_cart .top{background:#ccc;color:#444;}
+.feed_cart .bottom{text-align:center;margin-top:10px;}
+.feed_cart .bottom a{margin:0 5px;background:#ccc;padding:2px 5px;border-radius:3px;}

@@ -1,0 +1,4 @@
+[26-Aug-2013 23:36:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function single_info() on a non-object in /home/hdw3ec20/public_html/ci/application/modules/dia_diem/views/general_show_item.php on line 17
+[26-Aug-2013 23:37:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function single_info() on a non-object in /home/hdw3ec20/public_html/ci/application/modules/dia_diem/views/general_show_item.php on line 17
+[26-Aug-2013 23:37:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function single_info() on a non-object in /home/hdw3ec20/public_html/ci/application/modules/dia_diem/views/general_show_item.php on line 17
+[26-Aug-2013 23:37:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function single_info() on a non-object in /home/hdw3ec20/public_html/ci/application/modules/dia_diem/views/general_show_item.php on line 17

@@ -1,0 +1,89 @@
+@font-face{font-family:'UTM';src: url('../UTM.ttf');}
+
+body{margin:0;padding:0;font-size:13px;background:#fff;color:#000;line-height:1.4;font-family: Arial,sans-serif }
+.body_all_page{width:960px;padding:5px 10px 10px 10px;background:#fff;margin:0 auto;border-radius:4px;box-shadow:0 0 0px #888}
+.ffont1{font-family:UTM;}
+input.input_text,select,textarea{padding:5px;} select{height:26px;padding:3px;}
+textarea{height:80px}
+
+.contents_980{width:980px;margin:auto;}
+
+h1{color:#000}
+
+.invisible{visibility:hidden;}
+p.hint{margin:3px 0;color:#888}
+.btn:hover{cursor:pointer;opacity:.7;}
+.title_more .right{float:right;margin-top:12px;}
+.title_more .right a{padding:0px 10px;color:#444;font-weight:normal;font-size:11px;border-right:1px solid #ccc;}.title_more .right a:last-child{border:none;}
+.title_more .right a.active{font-weight:bold;}
+
+.select_language{position:absolute;right:0px;top:50px;padding:0 0px 5px 5px;}
+.select_language a{width:30px;height:15px;float:left;background:url('../images/bg/flag_vi.png') no-repeat center transparent;margin:5px 5px 0 0px;background-size:cover;}
+.select_language a.en{background:url('../images/bg/flag_en.png') no-repeat center}
+.select_language a:hover{opacity:0.8;}
+
+.filter_topic{margin:-35px 0 0 0px;text-align:right;}
+.filter_topic select{border:0px solid #dcdcdc;color:#444;font-size:11px;padding:4px;background:none}
+.filter_topic .left{float:left;margin-top:8px;}
+.filter_topic .left a{padding:0 5px;border-right:1px solid #ccc;color:#444;}.filter_topic .left a:last-child{border:none;}
+.filter_topic .left a.active{font-weight:bold;color:#2792cf;}
+.filter_topic label{margin:0 5px 0 5px;color:#888;font-size:11px;}
+.filter_topic h1.title{border:none;float:left;margin-top:-3px;}
+.filter_topic.after{padding:5px}
+
+.split_page{display:block;clear:both;padding:10px 5px 0 5px;margin-top:0px;border-top: 1px solid #f2f2f2;}
+.split_page.top{margin-bottom:-27px;}
+.split_page.nobg{background:none;}
+.split_page a{color:#444;padding:0px 3px;border:0px solid #cccccc;margin:0 2px;}
+.split_page .bound_page{float:right;margin-top:4px;}
+.split_page a:hover{color:#2792cf;}
+.split_page a.active{font-weight:bold;color:#FF3300;text-decoration:underline;}
+.split_page .npage_of{margin-right:15px;color:gray;font-style:italic;display:block;padding:5px 0;text-align:center}
+
+.block_white{padding-bottom:10px;margin-bottom:10px;}
+.block_white h6.title,.block_white h1.title{font-size:22px;font-weight:bold;margin:0;padding:6px 0px;}
+
+.tag_topic .title{text-transform:uppercase;background:url('../images/bg/tag.png') no-repeat 0 center;padding-left:20px;font-weight:bold;}
+.tag_topic a{color:#444;}
+
+.all_body{margin:auto;}
+
+.all_main_body{padding:0px;width: 980px;margin: auto;}
+.all_main_body.in_home{background:none;}
+
+.main_body{margin:auto;padding:0px 0;}
+.main_body.left_body_right .left_page{width:200px;float:left;}
+.main_body.left_body_right .body_page{float:left;width:530px;margin-left:15px;}
+.main_body.left_body_right .right_page{float:right;width:200px}
+
+.main_body.left_body .left_page{width:200px;float:left;}
+.main_body.left_body .body_page{margin-left:220px;}
+
+.main_body.body_right .body_page{float:left;width:680px;}
+.main_body.body_right .right_page{width:260px;float:right;padding:0;/*background:url('../images/bg/sidebar_shadow.png') no-repeat;*/}
+
+.main_body.body_left .body_page{float:left;width:710px;}
+.main_body.body_left .left_page{width:250px;float:right;}
+
+.sprites{background:url('../images/sprites.png') no-repeat;width:32px;height:32px;display:inline-block;}
+.sprites.like{background-position:-3px -5px;}
+.sprites.oto{background-position:-82px -5px;}
+.sprites.refund{background-position:-41px -5px;}
+
+.like_tr{display:block;padding:5px 0;}
+.like_tr label{float:left;width:120px;display:block;min-height:1px;text-align:right;margin:0px 10px 0 0;padding:5px;color:#444;background:#f2f2f2;border-radius:0 0 0 0px;font-weight:bold;}
+.like_tr.nobg label{background:none;}
+.like_tr .td p{margin-left:10px;}
+.like_tr .td{margin-left:140px;}
+.like_tr .td span{padding-top:5px;float:left;}
+
+.user_form{margin-top:10px;}
+.user_form.nomg{margin:0}
+.user_form .contents{background:#fff;padding:20px 10px 20px 0px;}
+.user_form h2{background:#f2f2f2;color:#444;border-radius:0;padding:6px 10px;font-weight:normal;font-size:18px;}
+
+
+
+.info_block h6{font-size:13px;margin:0;padding:8px 0 8px 45px;background:url('../images/bg/dental-icon.png') no-repeat 5px center #57ad23; background-size: contain; color:#fff;text-transform:uppercase;white-space: nowrap;overflow:hidden;}
+.info_block p{margin:3px 0 10px 0;color:#888}
+
